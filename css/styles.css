@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #7fffda;
+    min-height: 100vh;
+    padding-top: 10%;
+}
+.profile-card{
+    background-color: #fff;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 3px 0 #999;
+}
+.top-section{
+    background: #029d74;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+.linda-image{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    position: relative;
+    top: 90px;
+}
+.bottom-section{
+    text-align: center;
+    padding-top: 20%;
+}
+.muted{
+    color: #999;
+   
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+hr{
+    margin-top: 4%;
+}
